@@ -1,2 +1,2 @@
 # Python-Robotization-
-single dot move here and there on the map.
+single dot move left, right stop on the map by instructions.
